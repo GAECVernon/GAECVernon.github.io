@@ -13,9 +13,9 @@ footer {
     margin-top: 10px;
     width: 15vh;
     height: 10vh;
-    background-color: #04AA6D;
+    background-color: royalblue;
     color: whitesmoke;
-    border: none;
+    border: black solid 1px;
     font-size: larger;
 }
 
