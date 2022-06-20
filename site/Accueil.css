@@ -16,7 +16,7 @@ footer {
     background-color: royalblue;
     color: whitesmoke;
     border: black solid 1px;
-    font-size: larger;
+    font-size: 1em;
 }
 
 /*Style du menu*/
@@ -35,8 +35,9 @@ li a {
     text-align: center;
     color: white;
     text-decoration: none;
-    padding-top: 10vh;
-    padding-bottom: 10vh;
+    font-size: 3em;
+    padding-top: 5vh;
+    padding-bottom: 5vh;
   }
 
 li a:hover {
