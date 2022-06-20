@@ -1,0 +1,20 @@
+body{
+    background-color: rgb(80, 165, 239);
+    margin: 0;
+}
+
+footer {
+    text-align: center;
+}
+
+/*Style pour le bouton de retour à l'accueil*/
+#BoutonAccueil {
+    margin-left: 10px;
+    margin-top: 10px;
+    width: 15vh;
+    height: 10vh;
+    background-color: royalblue;
+    color: whitesmoke;
+    border: black solid 1px;
+    font-size: larger;
+}
