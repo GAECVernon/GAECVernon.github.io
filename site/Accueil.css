@@ -22,11 +22,11 @@ footer {
 /*Style du menu*/
 ul {
     list-style-type: none;
-    margin-left: 10%;
-    margin-right: 10%;
-    margin-top: 5%;
+    margin-left: 10vw;
+    margin-right: 10vw;
+    margin-top: 5vh;
     padding: 0;
-    width: 80%;
+    width: 80vw;
     background-color: #04AA6D;
 }
 
@@ -35,8 +35,8 @@ li a {
     text-align: center;
     color: white;
     text-decoration: none;
-    padding-top: 5%;
-    padding-bottom: 5%;
+    padding-top: 10vh;
+    padding-bottom: 10vh;
   }
 
 li a:hover {
