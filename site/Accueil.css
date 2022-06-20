@@ -4,7 +4,7 @@ body{
 }
 
 footer {
-    margin-left: 10%;
+    text-align: center;
 }
 
 /*Style du menu*/
@@ -22,8 +22,9 @@ li a {
     display: block;
     text-align: center;
     color: white;
-    padding: 8px 16px;
     text-decoration: none;
+    padding-top: 5%;
+    padding-bottom: 5%;
   }
 
 li a:hover {
