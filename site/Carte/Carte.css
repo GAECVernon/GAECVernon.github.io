@@ -17,6 +17,8 @@ footer {
     color: whitesmoke;
     border: black solid 1px;
     font-size: larger;
+    cursor: pointer;
+    border-radius: 10px;
 }
 
 /*Style pour la carte*/
