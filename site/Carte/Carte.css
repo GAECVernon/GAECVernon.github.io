@@ -1,0 +1,31 @@
+body{
+    background-color: rgb(80, 165, 239);
+    margin: 0;
+}
+
+footer {
+    text-align: center;
+}
+
+/*Style pour le bouton de retour à l'accueil*/
+#BoutonAccueil {
+    margin-left: 10px;
+    margin-top: 10px;
+    width: 10vw;
+    height: 10vh;
+    background-color: #04AA6D;
+    color: whitesmoke;
+    border: none;
+    font-size: larger;
+}
+
+/*Style pour la carte*/
+#centrer {
+    margin-top: 5vh;
+    text-align: center;
+}
+
+#carte {
+    width: 70vw;
+    height: 70vh;
+}
