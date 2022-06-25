@@ -40,12 +40,12 @@ li a {
     font-size: 3em;
     padding-top: 5vh;
     padding-bottom: 5vh;
-  }
+}
 
 li a:hover {
     background-color: #06cf85;
     color: white;
-  }
+}
   
 /*Bordure entre les éléments*/
 li {
