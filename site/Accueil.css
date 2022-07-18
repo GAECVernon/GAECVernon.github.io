@@ -56,3 +56,9 @@ li:last-child {
     border:none;
 }
 
+hr {
+    color:black;
+    background-color: black;
+    height: 2px;
+    border: None;
+}
