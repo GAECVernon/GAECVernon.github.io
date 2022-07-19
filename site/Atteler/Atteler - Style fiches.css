@@ -33,18 +33,23 @@ h2 {
     font-size: 1.5em;
 }
 
-ol li {
+li {
     font-size: 1.3em;
     margin-top: 2px;
 }
 
-ol li:first-child {
+li:first-child {
     font-size: 1.3em;
     margin-top: 0px;
 }
 
 a {
     color:rgb(71, 67, 67);
+}
+
+#schema {
+    max-width: 80vw;
+    max-height: 80vh;
 }
 
 hr {
